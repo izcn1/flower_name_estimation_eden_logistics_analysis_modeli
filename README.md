@@ -1,0 +1,2 @@
+# flower_name_estimation_eden_logistics_analysis_modeli
+logistic analysis model predicting flower name
